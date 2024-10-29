@@ -9,3 +9,8 @@ int main() {
 int function(int a, int b){
     return a + b;
 }
+
+int fun_a() {
+    printf("Modified by User A\n");
+    return 0;
+}
