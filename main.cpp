@@ -12,5 +12,9 @@ int function(int a, int b){
 
 int fun_a() {
     printf("Modified by User A\n");
+}
+
+int fun_b() {
+    printf("Modified by User B\n");
     return 0;
 }
