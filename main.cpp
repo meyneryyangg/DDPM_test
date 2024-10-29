@@ -5,3 +5,7 @@ int main() {
     printf("Hello, World!\n");
     return 0;
 }
+
+int function(int a, int b){
+    return a + b;
+}
